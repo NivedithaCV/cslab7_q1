@@ -1,3 +1,5 @@
+
+
 //library
 #include <iostream>
 using namespace std;
@@ -34,3 +36,6 @@ using namespace std;
 		cout<<"the answer is "<<calculatepower(a,b)<<endl;
 		return 0;
 	}
+
+  
+
